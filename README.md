@@ -1,2 +1,1 @@
-# shippo
-cron job
+# bin/bash
